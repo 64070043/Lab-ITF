@@ -1,4 +1,4 @@
 # ITF-Lab 2021
 
 ## Author
-Thanapat Supattananon 64070043
+นายธนพัฒน์ สุพัฒนานนท์ 64070043
