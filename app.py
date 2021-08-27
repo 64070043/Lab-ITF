@@ -1,3 +1,3 @@
 #Comments
-message ="Hello, ITF-Lab 2021"
-print(massage)
+message = "Hello, ITF-Lab 2021"
+print(message)
